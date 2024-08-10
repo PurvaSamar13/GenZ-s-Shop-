@@ -1,1 +1,1 @@
-# GenZ-s-Shop-
+# GenZs-Shop
