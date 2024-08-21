@@ -29,9 +29,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details
-For any questions or feedback, please reach out to your-email@example.com.
-
----
-
-Thank you for checking out this project! Happy coding!
+For any questions or feedback, please reach out to psamar2004@gmail.com.
 
