@@ -6,43 +6,12 @@ This project is a full-stack e-commerce website built using modern web technolog
 - User Authentication (Sign Up, Login, Logout)
 - Product Search and Filtering
 - Shopping Cart Management
-- Wishlist Functionality
-- Secure Checkout with Payment Integration
 - Order History and Tracking
-- Responsive Design for Mobile and Desktop
+- Responsive Design for Desktop
 
 ## Technologies Used
-- **Frontend:** React, Redux, Tailwind CSS, Material-UI
-- **Backend:** Node.js, Express.js, MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **Payment Gateway:** Stripe
-- **Deployment:** Vercel
-
-## Installation
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/ecommerce-website.git
-    cd ecommerce-website
-    ```
-
-2. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3. **Set up environment variables:**
-    Create a `.env` file in the root directory and add the following:
-    ```env
-    MONGO_URI=your_mongodb_connection_string
-    JWT_SECRET=your_jwt_secret
-    STRIPE_SECRET_KEY=your_stripe_secret_key
-    ```
-
-4. **Run the application:**
-    ```bash
-    npm start
-    ```
+- **Frontend:** HTML, CSS
+- **Backend:** JavaScript, React js
 
 ## Usage
 - **Home Page:** Browse products and view details.
@@ -59,9 +28,7 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
+This project is licensed under the MIT License. See the LICENSE file for more details
 For any questions or feedback, please reach out to your-email@example.com.
 
 ---
